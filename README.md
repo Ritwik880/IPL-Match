@@ -28,7 +28,7 @@ used to develop and deploy the Machine Learning Application was Random Forest an
 
 ## Local Installation
 
-1. Drop a ⭐ on the Github Repository. 
+1. Drop a ⭐ on the Github Repo.
 2. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 ```sh
